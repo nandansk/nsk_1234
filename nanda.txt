@@ -1,1 +1,2 @@
 hello macha-1
+machan teachin git
